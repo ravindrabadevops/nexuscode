@@ -48,9 +48,9 @@ http://34.205.63.68:8081/repository/package/
 </url>
 </repository>
 <snapshotRepository>	
-<id>snapshot</id>
+<id>snapshots</id>
 <url>
-http://34.205.63.68:8081/repository/snapshot/
+http://34.205.63.68:8081/repository/snapshots/
 </url>
 </snapshotRepository>
 </distributionManagement>
